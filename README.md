@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm **syakoo**, a **Motivation Driven Web Frontend Engineer**.
+I'm **syakoo**, an **interest-driven web frontend engineer**.
 
-I'm into **software design** and **math (algebra)**.
+I'm into **software design** and **math (algebra)** — more interested in abstractions than in chasing framework specs.
 
 Right now I'm building software and learning English.
 
 **Interests:** software architecture (*A Philosophy of Software Design*), algebra, shogi
+
+**Motto:** broaden, deepen, and discover what interests me.
 
 ---
 
@@ -15,4 +17,4 @@ Right now I'm building software and learning English.
 - 🌐 [syakoo-lab.com](https://syakoo-lab.com)
 - 🐦 [@sako_data](https://x.com/sako_data)
 - 💻 [LeetCode](https://leetcode.com/syakoo/)
-- [Shogi Wars](https://shogiwars.heroz.jp/users/mypage/syakoo)
+- ♟️ [Shogi Wars](https://shogiwars.heroz.jp/users/mypage/syakoo)
