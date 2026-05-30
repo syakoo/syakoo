@@ -8,8 +8,6 @@ Right now I'm building software and learning English.
 
 **Interests:** software architecture (*A Philosophy of Software Design*), algebra, shogi
 
-**Motto:** broaden, deepen, and discover what interests me.
-
 ---
 
 **Links**
