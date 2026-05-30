@@ -15,4 +15,4 @@ Right now I'm building software and learning English.
 - 🌐 [syakoo-lab.com](https://syakoo-lab.com)
 - 🐦 [@sako_data](https://x.com/sako_data)
 - 💻 [LeetCode](https://leetcode.com/syakoo/)
-- ♟️ [Shogi Wars](https://shogiwars.heroz.jp/users/mypage/syakoo)
+- 🏆 [AtCoder](https://atcoder.jp/users/syakoo)
